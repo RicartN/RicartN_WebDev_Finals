@@ -1,0 +1,262 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.nav {
+    height: 20px;
+}
+
+container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav > li {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.nav-link.active {
+    padding-top: 16px !important;
+    width: 244px;
+    height: 68px;
+    color: black;
+    border: solid silver 3px;
+    background-color: white;
+}
+
+h1 {
+    font-family
+    font-size: 1.9em;
+    text-align: center;
+    padding-top: 25px;
+    float: left;
+    border-bottom: solid 3px;
+    margin-left: 10px;
+    width: 212px;
+    padding-bottom: 11px;
+    margin-right: 20px;
+}
+
+.description {
+    margin-top: 20px;
+    width: 1250px;
+    margin-left: 243px;
+    font-size: 0.9em;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.nav > li > a:hover{
+    background-color: gainsboro;
+    color: black;
+}
+
+.lower-container {
+    column-count: 2;
+    background-color: grey;
+    width: 200px;
+}
+
+.homepage {
+    margin-top: 100px;
+    background-color: white;
+    height: 770px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+#homepic {
+    width: 800px;
+}
+
+.contact {
+    border: solid 2px silver;
+    margin-top: 50px;
+    margin-bottom: 300px;
+    width: 900;
+    height: 600px;
+    background-color: white;
+    color: black;
+}
+
+#imgpandemic {
+    width: 720px;
+    height: 600px;
+    border: solid silver 10px;
+    margin-left: 30px;
+}
+
+.column {
+    margin-top: 0px;
+    border-left: solid silver 2px;
+    margin-left: 20px;
+    overflow: auto;
+    width: 680px;
+    height: 600px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding-left: 5px;
+    margin-right: 20px;
+}
+
+.news > a {
+    color: black !important;
+    background-color: gainsboro !important;
+}
+
+.news {
+    border-top: solid silver 2px;
+    border-bottom: solid silver 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white !important;
+}
+
+footer {
+    height: 85px;
+    margin-top: 12px;
+    color: grey !important;
+    margin-bottom: 0px;
+    background-color: whitesmoke;
+}
+
+#ft {
+    padding-top: 10px;
+    column-count: 3;
+    text-align: center;
+    font-size: 0.7em;
+}
+
+#quote {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 0.7em;
+}
+
+a {
+    color: black;   
+}
+
+#boy {
+    margin: 204px;
+    margin-left: 0px;
+    margin-right: 25px;
+    float: left;
+}
+
+.contact > p {
+    margin-left: 600px;
+    border: solid 2px;
+    margin-top: 224px;
+    width: 600px;
+    font-size: 0.9em;
+}
+
+#introduction {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-bottom: solid silver 3px;
+    height: 170px;
+}
+
+#introboy {
+    width: 160px;
+    margin-left: 20px;
+    float: left;
+}
+
+.aboutsite {
+    column-count: 3;
+    margin-left: 10px;
+    padding: 0px;
+    margin-right: 10px;
+    height: 515px;
+    border: solid 3px silver;
+}
+
+.about {
+    margin-top: 60px;
+    width: 170px;
+    padding: 25px;
+    margin-left: 20px;
+    margin-right: 5px;
+    font-size: 1.1em;
+    text-align: center;
+    border: 3px solid silver;
+}
+
+.about:hover {
+    background-color: gainsboro;
+}
+
+.about > a {
+    color: black;
+    text-decoration: none;
+}
+
+#con {
+    margin-top: 55px;
+    width: 760px;
+    height: 400px;
+}
+
+.interaction-desc {
+    margin-top: 10px;
+    height: 100px;
+    border-bottom: solid silver 3px;
+    text-align: center;
+}
+
+.interaction-con {
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: white;
+    border: solid silver 3px;
+    width: 1050px;
+    height: 600px;
+    float: left;
+}
+
+.interaction {
+    margin-top: 75px;
+    margin-left: 1100px;
+    background-color: lightgoldenrodyellow;
+    width: 400px;
+    height: 360px;
+    border: ridge 2px silver;
+}
+
+.btn {
+    margin-top: 10px;
+    border: solid silver 2px;
+    width: 180px;
+    height: 50px;
+}
+
+.way > ul > li {
+    float: left;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    width: 473px;
+}
+
+.way > ul {
+    margin-left: 5px;
+    border-bottom: solid 3px silver;
+}
+
+.way > ul > li:hover {
+    background-color: gainsboro;
+}
+
+.scontainer {
+    border: solid 3px silver;
+    height: 550px;
+    width: 1490px;
+}
